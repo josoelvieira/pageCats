@@ -79,7 +79,7 @@ export default function Home() {
                 height={300}
                 alt=""
               />
-              )<p>{repo.description}</p>
+              <p>{repo.description}</p>
               <div className="grid columns-1 my-4 p-2">
                 <div className="grid">
                   <p className=" font-bold">Adaptability</p>
